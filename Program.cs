@@ -3,4 +3,4 @@ var app = builder.Build();
 
 app.MapGet("/", () => "Hello from .NET App running on Jenkins!");
 
-app.Run();
+app.Run("http://localhost:5000");
