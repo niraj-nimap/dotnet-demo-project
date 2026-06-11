@@ -2,8 +2,15 @@
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
+
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+
+    
+    <RollForward>LatestPatch</RollForward>
+
+    <Deterministic>true</Deterministic>
+
   </PropertyGroup>
 
 </Project>
