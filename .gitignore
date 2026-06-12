@@ -1,0 +1,65 @@
+# Byte-compiled / optimized / DLL files
+bin/
+obj/
+*.o
+*.so
+
+# Visual Studio
+.vs/
+*.sln.DotSettings
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+
+# NuGet
+.nuget/
+packages/
+*.nupkg
+*.snupkg
+
+# Local user settings
+appsettings.Local.json
+*.user
+*.suo
+
+# Logs
+logs/
+*.log
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Environment files
+.env
+.env.local
+
+# IDE specific files
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+
+# Entity Framework
+Migrations/
+
+# Built application files
+*.apk
+*.ap_
+
+# Java class files
+*.class
+
+# Generated files
+[Gg]enerated/
